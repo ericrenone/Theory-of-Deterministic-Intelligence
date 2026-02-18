@@ -1,4 +1,4 @@
-# ARDI — Albert-Ramanujan-Deterministic-Intelligence
+# ARDI - Albert-Ramanujan-Deterministic-Intelligence
 
 > Deterministic, information-theoretically optimal machine learning via exceptional Jordan algebra, Hardy–Ramanujan combinatorics, and ergodic latent dynamics.
 
